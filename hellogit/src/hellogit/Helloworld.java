@@ -5,7 +5,7 @@ package hellogit;
 
 /**
  *
- * @author CK
+ * @author itsck
  */
 public class Helloworld {
     
